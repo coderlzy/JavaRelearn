@@ -4,6 +4,9 @@ import java.util.Arrays;
 
 public class demo_arr {
 
+    //我把数组这一章的练习都敲了，只能有一个主函数那我就注释掉好啦，反正我也懒得重新再搞一个类
+    //诶，今天还是荒废了一点，明天可不可以再努力一点点啊？！
+
     //一维数组的赋值
     /*public static void main(String[] args){
 
